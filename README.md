@@ -47,6 +47,15 @@ The dataset, **Sample - Superstore**, contains information on orders, sales, pro
 
 ## Preview
 
+## Dashboard Preview
+
+### Page 1: Sales Overview
+![Sales Overview](Downloads/dashboard1)
+
+### Page 2: Regional & Category Insights
+![Regional Breakdown](dashboard2.png)
+
+
 *(Insert screenshots or link to Power BI report if published)*
 
 ## How to Use
