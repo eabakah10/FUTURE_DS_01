@@ -1,51 +1,53 @@
 # FUTURE_DS_01
-Task 1 for the Data Science &amp; Analytics Internship at Future Interns
+**Task 1 – Data Science & Analytics Internship at Future Interns**
 
-# E-commerce Sales Dashboard – Power BI Project
+## E-commerce Sales Dashboard (Power BI Project)
 
-## Project Overview
+### Project Overview
 
-This Power BI dashboard was developed to analyze e-commerce data and uncover key business insights. The goal was to identify best-selling products, sales trends, and high-revenue categories that can support data-driven decision-making.
+This Power BI dashboard explores e-commerce sales data to uncover actionable insights. The objective was to identify best-selling products, analyze monthly sales trends, and pinpoint high-revenue categories to guide business decision-making.
 
-## Dataset
 
-The dataset, **Sample - Superstore**, contains information on orders, sales, profits, customers, regions, and product categories.
+### Dataset
 
-## Key Insights
+The dataset used is **Sample - Superstore**, containing records of orders, sales, profits, customer segments, regions, and product categories.
 
-- **Total Sales:** $2.30M
-- **Top-Selling Product:** Canon ImageCLASS 2200 Advanced Copier
-- **Best Performing Category:** Technology
-- **Peak Sales Month:** November
-- **Region with Highest Sales:** West
+### Key Insights
 
-## Skills & Tools Used
+- **Total Sales:** $2.30M  
+- **Top-Selling Product:** Canon ImageCLASS 2200 Advanced Copier  
+- **Best Performing Category:** Technology  
+- **Peak Sales Month:** November  
+- **Region with Highest Sales:** West  
 
-- **Power BI**: for dashboard creation
-- **DAX**: to calculate Total Sales and Profit measures
-- **Data Modeling**: relationships between tables
-- **Slicers**: for interactive filtering (e.g., by Region, Category, Segment)
-- **Visualizations**: bar charts, line graphs, tree maps, and KPIs
 
-## Dashboard Pages
+### Tools & Skills Used
+
+- **Power BI** – Dashboard creation and visual analytics  
+- **DAX** – Calculated measures for Sales, Profit, Quantity, and Discount  
+- **Data Modeling** – Creating relationships between dataset tables  
+- **Slicers** – For interactive filtering (by Region, Category, Segment)  
+- **Visualizations** – Bar charts, line graphs, tree maps, KPIs  
+
+
+### Dashboard Pages
 
 1. **Sales Overview**
-   - KPIs: Total Sales
-   - Top-selling products bar chart
-   - Monthly trend line
-   - Regional/category comparison
+   - KPIs (Total Sales, Profit, Quantity, Discount)
+   - Top-selling products
+   - Monthly sales trends
+   - Regional/category comparisons
 
 2. **Sales Breakdown**
-   - Tree maps for Region and Category
-   - Slicers for Order Date, Category, Segment, and Region
+   - Tree maps by Region and Category
+   - Slicers to filter by Order Date, Segment, Region, and Category
 
-## What I Learned
 
-- Creating dynamic dashboards with filters and drill-down capability
-- Using DAX for custom calculations
-- Applying business storytelling techniques to highlight trends and performance
+### What I Learned
 
-## Preview
+- Building dynamic dashboards using filters and drill-downs  
+- Applying DAX functions for custom calculations  
+- Telling compelling business stories using data visuals  
 
 ## Dashboard Preview
 
@@ -56,5 +58,10 @@ The dataset, **Sample - Superstore**, contains information on orders, sales, pro
 ![Regional Breakdown](dashboard2.png)
 
 
+### Author
 
+**Eric Abakah**  
+*Data Science & Analytics Intern – Future Interns*  
+[LinkedIn](https://www.linkedin.com/in/eric-abakah-11a6361a7)
 
+---
