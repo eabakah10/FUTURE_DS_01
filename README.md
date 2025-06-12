@@ -50,16 +50,11 @@ The dataset, **Sample - Superstore**, contains information on orders, sales, pro
 ## Dashboard Preview
 
 ### Page 1: Sales Overview
-![Sales Overview](Downloads/dashboard1)
+![Sales Overview](dashboard1.png)
 
 ### Page 2: Regional & Category Insights
 ![Regional Breakdown](dashboard2.png)
 
 
-*(Insert screenshots or link to Power BI report if published)*
-
-## How to Use
-
-Download the `.pbix` file and open it with Power BI Desktop to interact with the dashboard and explore the data further.
 
 
