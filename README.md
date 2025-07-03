@@ -40,7 +40,7 @@ The dataset used is **Sample - Superstore**, containing records of orders, sales
 
 2. **Sales Breakdown**
    - Tree maps by Region and Category
-   - Slicers to filter by Order Date, Segment, Region, and Category
+   - Slicers to filter by Segment, Region, and Category
 
 
 ### What I Learned
@@ -51,11 +51,8 @@ The dataset used is **Sample - Superstore**, containing records of orders, sales
 
 ## Dashboard Preview
 
-### Page 1: Sales Overview
-![Sales Overview](dashboard1.png)
-
-### Page 2: Regional & Category Insights
-![Regional Breakdown](dashboard2.png)
+###  Sales Overview
+![Sales Overview](Task_1_dashboard.png)
 
 
 ### Author
